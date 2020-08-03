@@ -1,7 +1,7 @@
-# -numeric_symbolic_schemes-
-mathematica notebooks/routines/notes for solving numerical and symbolic problems (ODEs/PDEs, Finite Elements, Optimisation)
+# numeric_symbolic_schemes
+m
+The repository contains Mathematica notebooks/routines/notes for solving numerical and symbolic problems (ODEs/PDEs, Finite Elements, Optimisation)
 
+Mostly includes solved examples that I followed from Wolfram training sessions & workshops.
 
-Mostly include solved examples that I followed from Wolfram.
-
-Note: the PDFs maybe compressed and therefore any graphics might look blurry or jagged at the ends.
+Note: the PDFs maybe compressed and so the graphics might look blurry or jagged at the ends.
