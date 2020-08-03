@@ -3,3 +3,5 @@ mathematica notebooks/routines/notes for solving numerical and symbolic problems
 
 
 Mostly include solved examples that I followed from Wolfram.
+
+Note: the PDFs maybe compressed and therefore any graphics might look blurry or jagged at the ends.
